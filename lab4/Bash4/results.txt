@@ -1,0 +1,56 @@
+
+==================================================
+| Title: Black Panther
+| Year: 2018
+| Runtime: 134 min
+| IMDB: 7.8/10
+| Tomato: 97%
+| Rated: PG-13
+| Genre: Action, Adventure, Sci-Fi
+| Director: Ryan Coogler
+| Actors: Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+| Plot: T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.
+==================================================
+
+
+==================================================
+| Title: Captain America: Civil War
+| Year: 2016
+| Runtime: 147 min
+| IMDB: 7.8/10
+| Tomato: 91%
+| Rated: PG-13
+| Genre: Action, Adventure, Sci-Fi
+| Director: Anthony Russo, Joe Russo
+| Actors: Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan
+| Plot: Political involvement in the Avengers' activities causes a rift between Captain America and Iron Man.
+==================================================
+
+
+==================================================
+| Title: Doctor Strange
+| Year: 2016
+| Runtime: 115 min
+| IMDB: 7.5/10
+| Tomato: 89%
+| Rated: PG-13
+| Genre: Action, Adventure, Fantasy
+| Director: Scott Derrickson
+| Actors: Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams, Benedict Wong
+| Plot: While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.
+==================================================
+
+
+==================================================
+| Title: Guardians of the Galaxy Vol. 2
+| Year: 2017
+| Runtime: 136 min
+| IMDB: 7.7/10
+| Tomato: 83%
+| Rated: PG-13
+| Genre: Action, Adventure, Sci-Fi
+| Director: James Gunn
+| Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+| Plot: The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.
+==================================================
+
